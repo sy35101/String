@@ -25,3 +25,13 @@ how to writr the code
         // Printing the elements of array
         // using for each loop
         for (char c : ch) {
+ //how to decode the code
+           
+           Creating array of string length
+         // using length() method
+         char[] ch = new char[str.length()];
+  
+        // Copying character by character into array
+        // using for each loop
+        for (int i = 0; i < str.length(); i++) {
+            ch[i] = str.charAt(i);
