@@ -1,5 +1,4 @@
-# Stringkdfdf;sd
-//hfghfgnbnbvbn fggfgdh  hjhjhmnhghjgh
+how to writr the code
 
     
     
