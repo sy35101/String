@@ -1,11 +1,8 @@
 # Stringkdfdf;sd
 //hfghfgnbnbvbn fggfgdh  hjhjhmnhghjgh
-fgh
-gh
-fgh
-ghghghghbgbg ghbgg
- 
-    lfgfdgio fgij
+
+    
+    
     
     public class GFG {
   
@@ -15,7 +12,7 @@ ghghghghbgbg ghbgg
   
         // Custom input string
         String str = "GeeksForGeeks";
-  
+ 
         // Creating array of string length
         // using length() method
         char[] ch = new char[str.length()];
